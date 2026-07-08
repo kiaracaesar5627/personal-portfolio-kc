@@ -20,6 +20,8 @@
 
 # misc
 .DS_Store
+Thumbs.db
+Desktop.ini
 *.pem
 
 # debug
@@ -34,3 +36,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# tooling
+.vercel
+.turbo
